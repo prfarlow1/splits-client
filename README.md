@@ -1,8 +1,9 @@
-# splits-client
-A collaborative stopwatch app
-
-hello there i am updating this file 
-
-hello world
-
-change biskets and gravy
+<html>
+<head>
+<title>Splitz</title>	
+</head>
+<body>
+<h1>Splitz</h1>
+Test 123
+</body>
+</html>
